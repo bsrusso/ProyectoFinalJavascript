@@ -34,6 +34,7 @@ $(document).ready(function () {
             return
         };
         localStorage.setItem("nombreSocio", nombreSocio.toLowerCase());
+        localStorage.removeItem("carrito");
         $("#carrito").addClass("col anti-sticky")
         $("#carrito").append(`<h2>Bienvenido al club: ${$("#nombreSocio").val().toUpperCase()}</h2>
         <table class="table table-hover text-center" id="tableActividad">
