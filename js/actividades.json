@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nombre": "Hockey",
+        "precio": 1500,
+        "img": "img/portadaHockey.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Futbol",
+        "precio": 1300,
+        "img": "img/portadaFutbol.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Rugby",
+        "precio": 1450,
+        "img": "img/portadaRugby.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Natacion",
+        "precio": 750,
+        "img": "img/portadaNatacion.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Basquet",
+        "precio": 1100,
+        "img": "img/portadaBasquet.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Tenis",
+        "precio": 850,
+        "img": "img/portadaTenis.jpg"
+    }
+]
