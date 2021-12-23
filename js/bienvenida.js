@@ -21,6 +21,6 @@ $(document).ready(function () {
     }
 
     $(`#textoBienvenida`).append(
-        `<p><b>Muchas gracias por formar parte de nuestro club,</b> estamos muy felices de que nos hayas elegido. Recordá que ante cualquier problema o inconveniente en nuestras instalaciones, podes recurrir a nuestro centro de ayuda ubicado en la entrada principal del club.<br>No te olvides de conocer <a href="./elClub.html">la historia de nuestra institución</a></p>.<br><br>`
+        `<p><b>Muchas gracias por asociarte a nuestro club.</b> ¡Estamos muy felices de que nos hayas elegido! Recordá que ante cualquier inconveniente o duda podes recurrir a nuestro centro de ayuda ubicado en la entrada principal del club o mediante nuestro formulario de <a href="./contacto.html">contacto</a>.<br><br>No te olvides de conocer <a href="./elClub.html">la historia de nuestra institución</a></p>.<br><br>`
     )
 });
